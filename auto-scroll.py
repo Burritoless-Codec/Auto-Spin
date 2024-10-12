@@ -24,5 +24,5 @@ if __name__ == "__main__":
     while True:
         if keyboard.is_pressed(activate_key):
             toggle_scroll()
-            time.sleep(1)  # Debounce to prevent rapid toggling
+            time.sleep(1)
         time.sleep(0.01)
