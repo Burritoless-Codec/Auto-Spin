@@ -43,4 +43,4 @@ Stimming while playing Ana that it just a spinny spin gun animation with a mythi
 
 + To modify the activation keybind, change the activate_key variable (currently set to `'8+9'`).
 
-### The Unlicense [License](https://github.com/Burritoless-Codec/Auto-Spin/blob/master/LICENSE)
+### The Unlicense [License](LICENSE).
